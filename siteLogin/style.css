@@ -1,0 +1,149 @@
+body{
+     margin: 0;
+     font-family: Arial, Helvetica, sans-serif;
+    }
+
+.shh{
+    background-image: url(images/fundo\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+table{
+    width: 100%;
+    height: auto;
+  
+
+
+}
+.cabeçota{ 
+    margin-left: 200px;
+    background-color: rgba( 58, 11, 99, 1);
+}
+
+.separar{
+    width: 800px;
+}
+
+
+
+
+.logo{
+    width: 200px;
+    height: 60px;
+}
+
+
+.google{
+    width:200px;
+}
+
+.googlesinho{
+    width: 150px;
+    margin-left: 175px;
+
+}
+
+.telefone{
+    width: 280px ;
+}
+
+.matriculas{
+    width: 400px;
+}
+
+.cotemig{
+    width: 500px;
+   
+}
+
+.forms{
+    width:400px ;
+}
+
+.tablet{
+    width: 500px;
+}
+
+.coiso1{
+    width: 150px;
+}
+
+.bumtchalalaka{
+    width: 450px;
+    border-style: solid;
+    border-color:rgb(67,11,110);
+    border-width: 10px;
+}
+
+.fundo2{background-color: rgb(91,16,120);}
+
+
+.rosa{background-color:rgb(251, 69, 199) ;
+}
+
+.verde{background-color: rgb(137, 246, 104);
+
+}
+
+.roxo{background-color: rgb(67,11,110);}
+
+
+.texto1{
+    color: #fff;
+    justify-content: center;
+}
+
+.texto2{
+    color: rgb(102, 16, 131);
+    text-align: left;
+}
+
+.texto3{ color: rgb(137, 246, 104);
+margin-left: 50px;
+margin-right: 50px;}
+
+
+.texto4{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+}  
+
+.texto3plus{ color: rgb(137, 246, 104);
+    text-align: center;}
+
+  
+.texto4plus{
+    font-size: 11px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0px;
+}    
+
+.btnMatricula{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(138,77,157);
+    color: #fff;
+    font-size:25px;
+    cursor: pointer;
+    border-radius: 6px;
+    border-style: none;
+}
+
+.btnMatricula:hover{
+
+    transform:scale(1.01);
+    background-color: rgb(122, 64, 140);
+}
